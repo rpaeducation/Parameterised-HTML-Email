@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<p>
+Dear #CustomerName,<br><br>
+Thank You for contacting the Customer Support.<br><br>
+
+Your incident number is #number, kindly quote this indcident number when talking to a customer service representive.<br><br>
+
+Kind Regards,<br>
+<img src="data:image/png;base64,#image" alt="Customer Support Team" style="width:128px;height:128px"><br>
+Customer Support Team,<br>
+Company Name
+</p>
+
+</body>
+</html>
